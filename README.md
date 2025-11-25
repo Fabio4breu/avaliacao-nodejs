@@ -6,17 +6,29 @@ Foram criadas duas aplicações servidoras simples, conforme solicitado nos tuto
 
 📁 Estrutura do Repositório
 avaliacao-nodejs/
+
  ├── http_server/
+ 
  │    ├── index.js
+ 
  │    └── package.json
+ 
  │
+ 
  └── http_server2/
+ 
       ├── index.js
+      
       ├── package.json
+      
       ├── home.html
+      
       ├── quem_somos.html
+      
       ├── fale_conosco.html
+      
       └── not_found_404.html
+      
 
 🟦 Exercício Prático 1 – http_server
 
